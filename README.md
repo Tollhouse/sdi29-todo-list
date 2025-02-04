@@ -7,4 +7,4 @@ Simple site that uses an input field and a couple of buttons to generate and dis
 Enter text into the text input box.\
 Click on the submit button.\
 Save button puts currently displayed todo items into local storage.\
-Load button takes the current local storage and resubmits it to the display.\
+Load button takes the current local storage and resubmits it to the display.
